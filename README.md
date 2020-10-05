@@ -11,3 +11,13 @@
 2. [DDPG](https://github.com/renjie-github/RLToolKit/blob/main/DDPG.ipynb)
 3. [PPO](https://github.com/renjie-github/RLToolKit/blob/main/PPO.ipynb)
 4. TD3 [TODO]
+
+## Environment
+1. CartPole-v1
+2. MountainCarContinuous-v0
+
+## Prerequisite
+    tensorflow==2.3.0
+    tensorflow-probability==0.11.1
+    numpy==1.18.5
+    tensorboard==2.3.0
