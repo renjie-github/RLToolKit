@@ -10,7 +10,7 @@
     5. [Priority Double DQN](https://github.com/renjie-github/RLToolKit/blob/main/Priority_DoubleDQN.ipynb)
 2. [DDPG](https://github.com/renjie-github/RLToolKit/blob/main/DDPG.ipynb)
 3. [PPO](https://github.com/renjie-github/RLToolKit/blob/main/PPO.ipynb)
-4. TD3 [TODO]
+4. [TD3](https://github.com/renjie-github/RLToolKit/blob/main/TD3.ipynb)
 
 ## Environment
 1. CartPole-v1
